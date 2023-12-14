@@ -27,7 +27,7 @@ project5 = current_dir / "assets" / "Project5.png"
 PAGE_TITLE = "Digital CV | Muhammad Nur Adnan"
 NAME = "MUHAMMAD NUR ADNAN"
 DESCRIPTION = """
-Bachelor's of Communication | Ex-Journalist at Gentra Priangan | Data Science Enthusiast | Data Analyst
+Bachelor's of Communication | Ex-Journalist at Gentra Priangan | Data Enthusiast
 """
 EMAIL = "nuradnan70@gmail.com"
 SOCIAL_MEDIA = {
